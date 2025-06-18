@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+💻;Cofundador+de+Up+Develop🚀;Amante+del+desarrollo+web+y+móvil📱;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+💻;Cofundador+de+Up+Develop🚀;Desarrollo+web+y+móvil📱;&center=true&width=380&height=45">
 </p>
 
 ---
