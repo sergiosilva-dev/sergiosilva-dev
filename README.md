@@ -38,7 +38,7 @@
 ## 🧠 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosilva-dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosilva-dev&layout=compact&theme=react&hide_border=true&v=2" alt="Top Languages" />
 </div>
 
 ---
