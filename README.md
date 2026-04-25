@@ -18,10 +18,11 @@
 
 ```bash
 Name: Sergio Silva
-Role: Software Developer
-Focus: Web Development
+Class: Software Developer
+Level: Junior → Mid (evolving)
+Stack: Web Development
 Style: Pixel + Clean Code
-Status: Always Learning...
+Status: Grinding XP...
 ```
 
 ---
@@ -95,7 +96,7 @@ Status: Always Learning...
 ---
 
 <p align="center">
-🎯 "Building solutions one commit at a time"
+🎯 "Grinding code. Building systems. Leveling up daily."
 </p>
 
 <p align="center">
